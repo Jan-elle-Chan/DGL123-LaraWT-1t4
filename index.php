@@ -7,6 +7,7 @@
 <body>
     <H1>
     <?php 
+    $greeting = "Hello";
     echo"Hello " . "Everybody";
     ?>
     </H1>
